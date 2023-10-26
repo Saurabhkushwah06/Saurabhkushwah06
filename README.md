@@ -5,15 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkushwah06&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkushwah06" /> </p>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Saurabhkushwah06](https://github.com/Saurabhkushwah06)
-
+- 
 - 📫 How to reach me **saurabhkushwah112000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zUCoPQ9T8GyKWpLtkgWK7wMMHye7qAX_/view?usp=sharing](https://drive.google.com/file/d/1zUCoPQ9T8GyKWpLtkgWK7wMMHye7qAX_/view?usp=sharing)
-
-- ⚡ Fun fact **Die Hard Fan of Virat Kohli**
-
+- 📄 **Resume** [https://drive.google.com/file/d/1zUCoPQ9T8GyKWpLtkgWK7wMMHye7qAX_/view?usp=sharing](https://drive.google.com/file/d/1zUCoPQ9T8GyKWpLtkgWK7wMMHye7qAX_/view?usp=sharing)
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saurabhkushwah06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhkushwah06" height="30" width="40" /></a>
